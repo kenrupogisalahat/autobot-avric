@@ -1,7 +1,7 @@
 module.exports.config = {
-  name: "vernpogi",
+  name: "sean poging owner",
   version: "1.0.0",
-  credits: "vern",
+  credits: "sean",
   description: "A fun command that sends a compliment message.",
   commandCategory: "Fun",
   usages: "[optional message]",
